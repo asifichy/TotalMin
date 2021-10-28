@@ -1,1 +1,1 @@
-# Total min from hour and min
+# Find total min from hour and min in C
